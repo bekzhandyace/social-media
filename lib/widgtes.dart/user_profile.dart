@@ -14,7 +14,7 @@ class UserProfile extends StatelessWidget {
     return Scaffold(
       backgroundColor: Colors.pinkAccent,
       appBar: AppBar(
-        title: Text('Настройки'),
+        title: Text('Настройки changed'),
         centerTitle: true,
       ),
       body: Container(
