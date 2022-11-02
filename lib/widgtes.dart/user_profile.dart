@@ -12,9 +12,9 @@ class UserProfile extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      backgroundColor: Colors.grey,
+      backgroundColor: Colors.pinkAccent,
       appBar: AppBar(
-        title: Text('Settings'),
+        title: Text('Настройки'),
         centerTitle: true,
       ),
       body: Container(
